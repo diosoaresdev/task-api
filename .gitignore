@@ -31,3 +31,9 @@ build/
 
 ### VS Code ###
 .vscode/
+
+### Ambiente e segurança ###
+.env
+*.env
+application-local.properties
+application-prod.properties
